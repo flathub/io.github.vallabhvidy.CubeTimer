@@ -1,7 +1,7 @@
 {
     "id" : "io.github.vallabhvidy.CubeTimer",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "47",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "cube-timer",
     "finish-args" : [
@@ -30,12 +30,15 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/vallabhvidy/CubeTimer",
-                    "tag" : "0.1.0"
+                    "tag" : "0.1.1"
                 }
             ],
             "config-opts" : [
                 "--libdir=lib"
             ]
         }
-    ]
+    ],
+    "build-options" : {
+        "env" : {        }
+    }
 }
