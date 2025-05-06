@@ -1,5 +1,5 @@
 # Cube Timer
-![cube Timer icon](data/icons/hicolor/scalable/apps/io.github.vallabhvidy.CubeTimer.svg)
+![cube Timer icon](https://raw.githubusercontent.com/vallabhvidy/CubeTimer/refs/heads/main/data/icons/hicolor/scalable/apps/io.github.vallabhvidy.CubeTimer.svg)
 
 Cube Timer is a 3x3 Rubiks Cube Timer application for the GNOME desktop.
 
@@ -13,9 +13,13 @@ CubeTimer is available as a flatpak on flathub.
 
 ## Screenshots
 
-![Screenshot of Cube Timer, displaying a stopped timer](data/screenshots/ss1.png)
-![Screenshot of Plots, displaying a running timer](data/screenshots/ss2.png)
-![Screenshot of Plots, displaying a running timer](data/screenshots/ss3.png)
+| ![Stopped Timer](https://raw.githubusercontent.com/vallabhvidy/CubeTimer/refs/heads/main/data/screenshots/ss1.png)          | ![Running Timer](https://raw.githubusercontent.com/vallabhvidy/CubeTimer/refs/heads/main/data/screenshots/ss2.png)          |
+| :--------------------------------------------------:| :--------------------------------------------------:|
+| Stopped Timer                                       | Running Timer                                       |
+
+| ![Score Edit](https://raw.githubusercontent.com/vallabhvidy/CubeTimer/refs/heads/main/data/screenshots/ss3.png)             | ![Light Mode](https://raw.githubusercontent.com/vallabhvidy/CubeTimer/refs/heads/main/data/screenshots/ss4.png)             |
+| :--------------------------------------------------:| :--------------------------------------------------:|
+| Delete or Mark DNF                                  | Light Mode                                          |
 
 ## How to use
 
