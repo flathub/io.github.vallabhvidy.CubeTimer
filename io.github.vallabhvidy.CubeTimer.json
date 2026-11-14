@@ -30,7 +30,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/vallabhvidy/CubeTimer",
-                    "tag" : "0.2.3"
+                    "tag" : "0.2.3",
+                    "commit" : "8f5ad3966795b0fd07e63ffa3f2548ce8a59ae22"
                 }
             ],
             "config-opts" : [
