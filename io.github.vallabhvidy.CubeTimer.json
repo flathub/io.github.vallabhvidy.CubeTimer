@@ -18,8 +18,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/vallabhvidy/CubeTimer",
-                    "tag" : "0.2.2",
-                    "commit" : "eedc3e5b75878ca7b47230e3695330741ef948e2"
+                    "tag" : "0.2.3",
+                    "commit" : "8f5ad3966795b0fd07e63ffa3f2548ce8a59ae22"
                 }
             ]
         }
